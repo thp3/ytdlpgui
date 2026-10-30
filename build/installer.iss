@@ -1,6 +1,8 @@
 ; Inno Setup script for the packaged PyInstaller folder
 #define AppName "萬用影片下載器"
-#define AppVersion "0.1.0"
+#ifndef AppVersion
+  #define AppVersion "0.1.1"
+#endif
 #define AppExe "VideoDownloader.exe"
 
 [Setup]
