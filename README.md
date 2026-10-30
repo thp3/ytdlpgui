@@ -37,4 +37,6 @@ python -m venv .venv
 
 僅供下載你自己的內容或已獲授權的內容。下載他人影片可能違反平台條款或著作權，責任由使用者自行承擔。cookies.txt 等同登入憑證，請勿分享或提交到版本庫。
 
-第三方元件與授權見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+## 授權
+
+本專案採用 [The Unlicense](LICENSE)（與 yt-dlp 相同），釋出為公眾領域。第三方元件與其授權見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
